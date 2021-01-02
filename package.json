@@ -1,0 +1,27 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.26.20",
+    "babel-plugin-import": "^1.11.2",
+    "babel-plugin-styled": "0.0.0",
+    "koa": "^2.13.0",
+    "koa-router": "^7.4.0",
+    "moment": "^2.29.1",
+    "next": "^8.0.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.2.1"
+  }
+}
